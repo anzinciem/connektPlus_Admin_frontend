@@ -1,0 +1,1 @@
+*) template model from : https://startbootstrap.com/template/sb-admin
